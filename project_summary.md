@@ -1,12 +1,10 @@
 # Project Title
-Insert the name of your project
-
+Flocking Bristles
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Chris Wolverton,  WOLVERTRON
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Flocks, swarms, herds, and schools of simple intelligences are fascinating to watch. Tracking individuals through time via a path can reveal beautiful patterns. Applying artistic choices for brush sizes, colors, and opacity can result in layered patterns reminiscent of those found in the smallest and largest scales of nature.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
