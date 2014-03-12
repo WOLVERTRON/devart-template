@@ -1,5 +1,4 @@
-# Project Title
-Flocking Bristles
+# Flocking Bristles
 ## Authors
 - Chris Wolverton,  WOLVERTRON
 
